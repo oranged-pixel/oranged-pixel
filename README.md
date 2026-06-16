@@ -6,7 +6,7 @@ A 13-year-old independent developer and tech enthusiast. I love exploring physic
 
 ### 🚀 My Active Projects
 
-* 🟢 **[waste-to-energy](https://github.com/oranged-pixel/waste-to-energy)** - A clean, zero-emission plant design using negative pressure. `[AGPL-3.0]`
+* 🟢 **[waste-to-energy](https://github.com/oranged-pixel/waste-to-energy)** - A clean, zero-emission plant design using negative pressure. 
 * 🧲 **[coilgun-for-speeding](https://github.com/oranged-pixel/coilgun-for-speeding)** - An electromagnetic mass driver concept with anti-suckback sensors.(inspired by animation vs physics)
 
 ---
@@ -16,7 +16,7 @@ A 13-year-old independent developer and tech enthusiast. I love exploring physic
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![AI Assisted](https://img.shields.io/badge/AI--Assisted-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
 ---
 
