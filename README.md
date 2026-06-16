@@ -7,7 +7,7 @@ A 13-year-old independent developer and tech enthusiast. I love exploring physic
 ### 🚀 My Active Projects
 
 * 🟢 **[waste-to-energy](https://github.com/oranged-pixel/waste-to-energy)** - A clean, zero-emission plant design using negative pressure. `[AGPL-3.0]`
-* 🧲 **Coilgun Speeder** - An electromagnetic mass driver concept with anti-suckback sensors.(inspired by animation vs physics)
+* 🧲 **[coilgun-for-speeding](https://github.com/oranged-pixel/coilgun-for-speeding)** - An electromagnetic mass driver concept with anti-suckback sensors.(inspired by animation vs physics)
 
 ---
 
