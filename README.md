@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oranged! (`oranged-pixel`)
 
-A 13-year-old independent developer and tech enthusiast. I love exploring physics, green energy, and aerospace engineering!
+A 13-year-old independent developer and tech enthusiast. I love exploring physics and aerospace engineering!
 
 ---
 
