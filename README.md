@@ -1,4 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Oranged! (`oranged-pixel`)
+
+A 12-year-old independent developer and tech enthusiast. I love exploring physics, green energy, and aerospace engineering!
+
+---
+
+### 🚀 My Active Projects
+
+* 🟢 **[waste-to-energy](https://github.com/oranged-pixel/waste-to-energy)** - A clean, zero-emission plant design using negative pressure. `[AGPL-3.0]`
+* 🧲 **コイルガン (Coilgun Speeder)** - An electromagnetic mass driver concept with anti-suckback sensors. `[AGPL-3.0]`
+
+---
+
+### 🛡️ Core Tech Stack & Weapons
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![AI Assisted](https://img.shields.io/badge/AI--Assisted-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)
+
+---
+
+### 📊 My Cyber Matrix
+
+![Oranged's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oranged-pixel&show_icons=true&theme=tokyonight&count_private=true)
+
+> "Ideas are worth nothing, execution is everything. Let's build the future." 🛸
+
 
 <!--
 **oranged-pixel/oranged-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
